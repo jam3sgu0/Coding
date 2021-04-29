@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+.square1 {
+    position: absolute;
+    width: 249px;
+    height: 206px;
+    left: 70px;
+    top: 337px;
+
+    background: #C4C4C4;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+
+.square2 {
+    position: absolute;
+    width: 249px;
+    height: 206px;
+    left: 378px;
+    top: 337px;
+
+    background: #C4C4C4;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+
+.square3 {
+    position: absolute;
+    width: 249px;
+    height: 206px;
+    left: 700px;
+    top: 337px;
+    
+    background: #C4C4C4;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+
+body {
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: greenyellow;
+}
+
+text1 {
+    position: absolute;
+    width: 837px;
+    height: 47px;
+    left: 70px;
+    top: 101px;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 86px;
+    
+    color: #000000;
+}
+
+text2 {
+    position: absolute;
+width: 869px;
+height: 47px;
+left: 70px;
+top: 248px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 43px;
+
+color: #000000;
+}
+
+text3 {
+    position: absolute;
+width: 837px;
+height: 47px;
+left: 85px;
+top: 649px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 43px;
+
+color: #FFFFFF;
+}
+
+text4 {
+    position: absolute;
+    width: 729px;
+    height: 47px;
+    left: 85px;
+    top: 746px;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 43px;
+    
+    color: #FFFFFF;
+}
+
+button {
+    position: absolute;
+    width: 183px;
+    height: 73px;
+    left: 85px;
+    top: 865px;
+    
+    background: #C4C4C4;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
